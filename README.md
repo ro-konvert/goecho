@@ -6,5 +6,5 @@
 
 ### СИСТЕМНЫЕ ТРЕБОВАНИЯ
 
-Windows >= XP
-Android >= 4.1
+* ul Windows >= XP
+* ul Android >= 4.1
