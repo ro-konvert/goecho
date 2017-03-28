@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>About.qml</file>
+        <file>javascript/main.js</file>
+        <file>Help.qml</file>
+        <file>Config.qml</file>
+        <file>favicons/favicon.ico</file>
+        <file>images/config.svg</file>
+        <file>images/help.svg</file>
+        <file>images/minimize.svg</file>
+        <file>images/about.svg</file>
+        <file>sounds/volume.wav</file>
+        <file>sounds/beep.wav</file>
+    </qresource>
+</RCC>
